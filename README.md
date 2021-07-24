@@ -1,4 +1,12 @@
-### Hi there 👋
+![hi, i'm rosa]()
+
+### welcome to my github. i like to write ~~javacript~~ code.
+### i'm currently an IT Auditor by day and spend my nights developing ideas.
+
+
+### sometimes i like to jam out.
+
+
 
 <!--
 **rcowe/rcowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
