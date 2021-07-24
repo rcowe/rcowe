@@ -5,7 +5,7 @@
 
 
 ### sometimes i like to jam out.
-![trapbob gif]()
+![trapbob gif](https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif)
 
 
 <!--
