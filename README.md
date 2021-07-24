@@ -5,7 +5,7 @@
 
 
 ### sometimes i like to jam out.
-![trapbob gif](https://giphy.com/stickers/lw3YiRBFj4xz7i5141)
+![trapbob gif]()
 
 
 <!--
