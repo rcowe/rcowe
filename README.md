@@ -1,4 +1,4 @@
-![hi, i'm rosa]()
+![hi, i'm rosa](https://github.com/rcowe/rcowe/blob/main/assets/hi_im_rosa.mp4)
 
 ### welcome to my github. i like to write ~~javacript~~ code.
 ### i'm currently an IT Auditor by day and spend my nights developing ideas.
