@@ -1,4 +1,4 @@
-![hi, i'm rosa](https://github.com/rcowe/rcowe/blob/main/assets/hi_im_rosa.mp4)
+![hi, i'm rosa](https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-28-51.gif)
 
 ### welcome to my github. i like to write ~~javacript~~ code.
 ### i'm currently an IT Auditor by day and spend my nights developing ideas.
