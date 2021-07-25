@@ -1,11 +1,13 @@
 ![hi, i'm rosa](https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-28-51.gif)
 
-### welcome to my github. i like to write ~~javacript~~ code.
-### i'm currently an IT Auditor by day and spend my nights developing ideas.
+<h4 align="center"><samp> welcome to my github. i like to write ~~javacript~~ code. </samp></h4>
+<h4 align="center"><samp> i'm currently an IT Auditor by day and spend my nights developing ideas. </samp></h4>
 
 
-### sometimes i like to jam out.
-![trapbob gif](https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif)
+<h4 align="center"><samp> sometimes i like to jam out. </samp></h4>
+<div style="text-align:center"><img src="https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif" alt="trapbobgif" /></div>
+
+
 
 
 <!--
