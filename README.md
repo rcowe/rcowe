@@ -5,7 +5,7 @@
 
 
 <h4 align="center"><samp> sometimes i like to jam out. </samp></h4>
-<div style="text-align:center"><img src="https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif" alt="trapbobgif" /></div>
+<div align="center"><img src="https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif" alt="trapbobgif" /></div>
 
 
 
