@@ -1,8 +1,8 @@
 ![hi, i'm ro](https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-28-51.gif)
 
-<h4 align="center"><samp> welcome to my github. i like to write ~javascript~ code. </samp></h4>
-<h4 align="center"><samp> currently i am an IT Auditor by day and am spending my nights developing ideas. </samp></h4>
-
+<h4 align="center"><samp> welcome to my github. i like to tinker with code. </samp></h4>
+<h4 align="center"><samp> i am an IT Auditor turned Application Security Analyst by day and am spending my nights developing ideas. </samp></h4>
+<h4 align="center"><samp>😄 Pronouns: they/she</samp>
 
 <h4 align="center"><samp> sometimes i like to jam out 🤘🏾. </samp></h4>
 <div align="center"><img src="https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif" alt="trapbobgif" /></div>
