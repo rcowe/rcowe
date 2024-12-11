@@ -1,11 +1,13 @@
-![hi, i'm ro](https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-28-51.gif)
+![hi, i'm ro](https://github.com/rcowe/rcowe/blob/main/assets/hi_im_ro.gif)
 
 <h4 align="center"><samp> welcome to my github. i like to tinker with code. </samp></h4>
-<h4 align="center"><samp> i am an IT Auditor turned Application Security Analyst by day and am spending my nights developing ideas. </samp></h4>
+<h4 align="center"><samp> i am an Ex-IT Auditor turned Application Security Analyst by day and am spending my nights developing ideas. </samp></h4>
 <h4 align="center"><samp>😄 Pronouns: they/she</samp>
-
-<h4 align="center"><samp> sometimes i like to jam out 🤘🏾. </samp></h4>
-<div align="center"><img src="https://github.com/rcowe/rcowe/blob/main/assets/2021-07-24_15-47-56.gif" alt="trapbobgif" /></div>
+<h4 align="center"><samp>🔭 I’m currently working on becoming more consistent and collecting more technical security hard skills </samp>
+<h4 align="center"><samp>🌱 I’m currently studying to pass the CISSP</samp>
+<h4 align="center"><samp>👯 I’m looking to collaborate on open-source projects, security projects or research</samp>
+<h4 align="center"><samp>🤔 I’m looking for likeminded people</samp>
+<h4 align="center"><samp>💬 Ask me about why i hate and love mushrooms</samp>
 
 <h4 align="center"><samp> Connect with me ⤵️ </samp></h4>
 <div align="center">
@@ -18,28 +20,7 @@
 <a href="https://linkedin.com/in/rosacbautista" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/ros.owen.c/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
+<a href="https://bsky.app/profile/roowen.bsky.social" target="_blank"> <img src=https://img.shields.io/badge/bsky.app-you_roowen.bsky.social-blue alt=blueskysocial style="margin-bottom: 5px;" />
+
 </div>  
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rcowe.visitor-badge)
-
-
-
-
-<!--
-**rcowe/rcowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
